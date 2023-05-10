@@ -3,9 +3,14 @@
 Resize
 ======
 
-Image resizing for the [Go programming language](http://golang.org) with common interpolation methods.
+<a href="https://github.com/verystar/resize/actions"><img src="https://github.com/verystar/resize/workflows/build/badge.svg" alt="Build Status"></a>
+<a href="https://codecov.io/gh/verystar/resize"><img src="https://codecov.io/gh/verystar/resize/branch/master/graph/badge.svg" alt="codecov"></a>
+<a href="https://goreportcard.com/report/github.com/verystar/resize"><img src="https://goreportcard.com/badge/github.com/verystar/resize" alt="Go Report Card
+"></a>
+<a href="https://pkg.go.dev/github.com/verystar/resize"><img src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square" alt="GoDoc"></a>
+<a href="https://opensource.org/licenses/mit-license.php" rel="nofollow"><img src="https://badges.frapsoft.com/os/mit/mit.svg?v=103"></a>
 
-[![Build Status](https://travis-ci.org/verystar/resize.svg)](https://travis-ci.org/verystar/resize)
+Image resizing for the [Go programming language](http://golang.org) with common interpolation methods.
 
 Installation
 ------------
