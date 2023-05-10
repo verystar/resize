@@ -2,8 +2,7 @@
 
 Resize
 ======
-
-<a href="https://github.com/verystar/resize/actions"><img src="https://github.com/verystar/resize/workflows/build/badge.svg" alt="Build Status"></a>
+[![build](https://github.com/verystar/resize/actions/workflows/build.yml/badge.svg)](https://github.com/verystar/resize/actions/workflows/build.yml)
 <a href="https://codecov.io/gh/verystar/resize"><img src="https://codecov.io/gh/verystar/resize/branch/master/graph/badge.svg" alt="codecov"></a>
 <a href="https://goreportcard.com/report/github.com/verystar/resize"><img src="https://goreportcard.com/badge/github.com/verystar/resize" alt="Go Report Card
 "></a>
